@@ -30,20 +30,39 @@ Bengaluru, as the IT capital of India, witnesses a significant reliance on resta
 
 Data Fields:
 url: Zomato website link for the restaurant
+
 address: Physical location of the restaurant in Bengaluru
+
 name: Name of the restaurant
+
 online_order: Availability of online ordering
+
 book_table: Option to book a table
+
 rate: Overall rating out of 5
+
 votes: Total number of ratings received
+
 phone: Contact number for the restaurant
+
 location: Neighborhood where the restaurant is situated
+
 rest_type: Type of restaurant
+
 dish_liked: Popular dishes at the restaurant
+
 cuisines: Variety of food styles offered, separated by commas
+
 approx_cost(for two people): Approximate cost for a meal for two
+
 reviews_list: List of customer reviews in tuples, each containing a rating and review
+
 menu_item: Available menu items
+
 listed_in(type): Type of meal listed
+
 listed_in(city): Neighborhood where the restaurant is listed
+
 By exploring these aspects, we aim to unravel the intricate factors shaping the restaurant industry in Bengaluru and build a model that predicts the ratings of individual restaurants.
+
+#Zomato #DataAnalysis #RestaurantInsights #OpenSource #ZomatoAnalysis #BengaluruEats #RestaurantInsights #FoodData #CulinaryTrends #PredictiveModeling #DiningDemographics #ITCityCuisine #GastronomyAnalytics #FoodTech #DataDrivenDining #RatingPredictor #FoodieFacts #EatingOutInBengaluru #ZomatoDataset #RestaurantCompetition #FoodieTech #CulinaryExploration #DineSmart #DemographicStudy #FoodTechInsights
